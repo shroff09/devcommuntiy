@@ -1,0 +1,6 @@
+{
+  "mongoURL": "mongodb+srv://ankit:SHURU@ankit9@cluster0.3ixo4.mongodb.net/devcommunity?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "e905b5831a6df5039b1d",
+  "githubSecret": "1f96bd26c898ec93b816508f9f8983e5ff406ac2"
+}
